@@ -10,9 +10,9 @@ const VideoPlayer = () => {
   return (
     <Box>
       <ReactPlayer
-        width="100%"
-        height="auto"
-        objectFit="cover"
+        // width="100%"
+        // height="auto"
+        // objectFit="cover"
         url={video}
         controls={true}
         light={false}

@@ -15,3 +15,5 @@ export default function HomePage() {
     </>
   );
 }
+
+// use client
