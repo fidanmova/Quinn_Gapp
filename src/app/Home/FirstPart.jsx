@@ -6,7 +6,7 @@ import  Typography  from '@mui/material/Typography'
 export default function FirstPart() {
   return (
     <Box className='firstPage'>
-      <Typography color='white'>Hello Motherfuckers</Typography>
+      {/* <Typography color='white'>Hello Motherfuckers</Typography> */}
    
     </Box>
   )
